@@ -9,7 +9,7 @@ Simple desktop app for downloading YouTube videos built with Python.
 ## Requirements
 - Python 3.8+
 - yt-dlp
-- Requires ffmpeg
+- [Requires ffmpeg](https://github.com/lundy1/ffmpeg-installer)
 
 ## Install Requirements
 ```bash
